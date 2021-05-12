@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba2eac33-aff6-45cb-bb75-4c6fa879f44d" name="Default Changelist" comment="lesson2">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+    <list default="true" id="ba2eac33-aff6-45cb-bb75-4c6fa879f44d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +42,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -93,7 +89,12 @@
       <workItem from="1619466810417" duration="4741000" />
       <workItem from="1619547511157" duration="8633000" />
       <workItem from="1619639538228" duration="3531000" />
-      <workItem from="1619644680932" duration="1578000" />
+      <workItem from="1619644680932" duration="3963000" />
+      <workItem from="1619648664066" duration="550000" />
+      <workItem from="1619649234053" duration="686000" />
+      <workItem from="1620222489718" duration="4459000" />
+      <workItem from="1620226983583" duration="7624000" />
+      <workItem from="1620384817284" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="create first components">
       <created>1619548275422</created>
@@ -116,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619645465494</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson2">
+      <created>1619646269743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619646269743</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson2">
+      <created>1620244176655</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620244176655</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,5 +155,9 @@
     <MESSAGE value="master" />
     <MESSAGE value="lesson2" />
     <option name="LAST_COMMIT_MESSAGE" value="lesson2" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
